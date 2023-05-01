@@ -24,5 +24,6 @@
 - Ta lưu trữ lại địa chỉ của **call rax** vào tool, lần nhập đầu tiên ta sẽ nhạp vào đấy shell code, và ở lần nhập tiếp theo ta sẽ cùng nhập vào 536 byte và 8 byte dữ liệu sau khi đã overwrite save rip bằng địa chỉ chứa dữ liệu của shell code.
 ![image](https://user-images.githubusercontent.com/130078745/235354220-b78d4a7f-de1f-4168-b15c-a97b3f17db64.png)
 - Cùng chạy thử tools đã viết nhóe :>>> , sau khi chạy thử thì ta đã lấy đc shell.
-![image](https://user-images.githubusercontent.com/130078745/235356862-22ad8d46-a6c7-4391-aa97-0ba69eee729a.png)
+![image](https://user-images.githubusercontent.com/130078745/235420887-98b610ac-d41c-44e7-843f-252e37eb28fa.png)
+
 
